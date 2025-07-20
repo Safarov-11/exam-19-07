@@ -1,0 +1,31 @@
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\C# 4 month\Shablon WebApi!\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\admin\OneDrive\Desktop\C# 5 month\Exam-19-07\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
